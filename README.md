@@ -1,4 +1,3 @@
-
 # LEAP Program Coding Club Projects
 
 ## About
@@ -13,5 +12,13 @@ I have completed a weather graphing app that visualizes temperature data over ti
 ### 2. Upcoming Projects
 I have several other projects planned but have not started them yet. Stay tuned for updates as I begin working on these projects.
 
-## Feedback
-Feedback and suggestions are welcome as I continue to learn and grow through these projects.
+## Installation
+
+To run the code in this repository, you need to install the following Python packages:
+
+```bash
+pip install seaborn
+pip install customtkinter
+pip install tkcalendar
+pip install matplotlib
+pip install pandas
