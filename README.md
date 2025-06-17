@@ -2,7 +2,7 @@
 
 ## About
 
-This repository contains my project for Habib University's LEAP Program Coding Club.
+This repository contains my project for Habib University's LEAP Program.
 
 ## Project
 
