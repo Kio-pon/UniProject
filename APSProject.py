@@ -30,14 +30,14 @@ class LoginScreen(QWidget):
         layout = QVBoxLayout()
         
         # Title
-        title = QLabel("Coding Practice App")
+        title = QLabel("Coding Practice App for students")
         title.setAlignment(Qt.AlignCenter)
         title.setStyleSheet("font-size: 24px; margin: 20px;")
         layout.addWidget(title)
         
         # Username input
         self.username_input = QLineEdit()
-        self.username_input.setPlaceholderText("Username")
+        self.username_input.setPlaceholderText("whatever")
         self.username_input.setStyleSheet("padding: 5px; margin: 5px;")
         layout.addWidget(self.username_input)
         
